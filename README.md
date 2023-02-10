@@ -5,6 +5,10 @@ This is adapted from someone else's work to get it to work and add CSV file outp
 
 WorkingHopiLogger.py is the known working file, other files are included because they were in the directory where I had the working file, they may not be needed.
 
+I am not a python programmer, I just learned enought to get this to work.
+
+Original readme
+---------------
 # Hopi-HP-9800
 API to connect and receive data from Hopi HP-9800 (AC Power meter) 
 
